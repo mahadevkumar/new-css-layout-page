@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.col-12{
+    background-color: gray;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.col-3{
+    background-color: gainsboro;
+    height: 200px;
+}
+.col-9{
+    background-color: rgb(246, 245, 244);
+    height: 200px;
+}
+#col-12{
+    height: 100px;
+
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
